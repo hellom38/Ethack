@@ -4,7 +4,7 @@ Ethack is a ethical hacking utility tool used to facilitate using hacking mechan
 
 ## Installation
 
-You can install the Real Python Feed Reader from [PyPI](https://pypi.org/project/realpython-reader/):
+You can install Ethack from [PyPI](https://pypi.org/project/Ethack/):
 
     python -m pip install Ethack
 
