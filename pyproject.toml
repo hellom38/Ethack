@@ -3,18 +3,18 @@ requires      = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "realpython-reader"
-version = "1.1.1"
-description = "Read the latest Real Python tutorials"
+name = "Ethack"
+version = "1.0.0"
+description = "Make cybersecurity breaches easily"
 readme = "README.md"
-authors = [{ name = "Real Python", email = "info@realpython.com" }]
+authors = [{ name = "Hellom38", email = "dev.hellom38.hireable@gmail.com" }]
 license = { file = "LICENSE" }
 classifiers = [
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
 ]
-keywords = ["feed", "reader", "tutorial"]
+keywords = ["hack", "ethack", "Hacking"]
 dependencies = ["feedparser", "html2text", 'tomli; python_version < "3.11"']
 requires-python = ">=3.7"
 
@@ -26,7 +26,7 @@ requires-python = ">=3.7"
     realpython = "reader.__main__:main"
 
     [project.urls]
-    repository    = "https://github.com/realpython/reader"
+    repository    = "https://github.com/hellom38/Ethack"
     documentation = "https://realpython.com/pypi-publish-python-package/"
 
 
