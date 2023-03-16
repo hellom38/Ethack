@@ -17,7 +17,7 @@ except ModuleNotFoundError:
     # Third party imports
     import tomli as tomllib
 
-
+author = "hellom38/dev.hellom38.hireable@gmail.com"
 # Version of realpython-reader package
 __version__ = "1.0.0"
 
