@@ -27,7 +27,7 @@ The Ethack is a sophisticated facility utility.
 
     [... The full text of the article ...]
 
-You can also call the Real Python Feed Reader in your own Python code, by importing from the `Ethack` package:
+You can also call Ethack in your own Python code, by importing from the `Ethack` package:
 
     >>> from Ethack import Websites
     >>> Websites.get_list()
